@@ -1,5 +1,5 @@
 ﻿  vvp4.4.cpp
-C:\Users\acer\Desktop\vvp4.4\vvp4.4\vvp4.4.cpp(14,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\acer\Desktop\vvp4.4\vvp4.4\vvp4.4.cpp(15,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\acer\Desktop\vvp4.4\vvp4.4\vvp4.4.cpp(16,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  vvp4.4.vcxproj -> C:\Users\acer\Desktop\vvp4.4\Debug\vvp4.4.exe
+C:\Users\acer\Documents\GitHub\tanusha-s-labs\vvp4.4\vvp4.4\vvp4.4.cpp(14,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\acer\Documents\GitHub\tanusha-s-labs\vvp4.4\vvp4.4\vvp4.4.cpp(15,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\acer\Documents\GitHub\tanusha-s-labs\vvp4.4\vvp4.4\vvp4.4.cpp(16,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  vvp4.4.vcxproj -> C:\Users\acer\Documents\GitHub\tanusha-s-labs\vvp4.4\Debug\vvp4.4.exe

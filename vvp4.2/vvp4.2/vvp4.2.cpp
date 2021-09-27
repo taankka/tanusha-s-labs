@@ -9,7 +9,7 @@ int main()
     int d; float p = 3.14;
     cout << "d= "; cin >> d;
     float l = d * p;
-    cout << ("l= ", l);
+    cout << "l= " << l;
     return 0;
 }
 

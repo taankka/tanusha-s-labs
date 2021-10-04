@@ -1,0 +1,3 @@
+﻿  vvp6.4.cpp
+C:\Users\acer\Desktop\ввп\vvp6.4\vvp6.4\vvp6.4.cpp(12,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  vvp6.4.vcxproj -> C:\Users\acer\Desktop\ввп\vvp6.4\Debug\vvp6.4.exe
